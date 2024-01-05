@@ -1,7 +1,7 @@
 # SILCA: Simple Intelligent Low Cost Robot Arm 
 
 ### SILCA 3D Model
-<img src="output/silca.gif" width="400"/>  <img src="output/mot_test_8.gif" width="400"/> 
+<img src="3.Images/silca.gif" width="400"/>  <img src="output/mot_test_8.gif" width="400"/> 
 
 The 3D model was donde in fusion 360 and it's avilable in 2.Hardware/1.CAD_Model/
 
